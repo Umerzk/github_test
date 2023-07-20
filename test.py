@@ -1,3 +1,3 @@
 print ("pandora")
-print ('okay ')
+print ('okay')
 print ('Elite')
